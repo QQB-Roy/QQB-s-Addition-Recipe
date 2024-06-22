@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "I":{
+            "item": "leather"
+        },
+        "W":{
+            "item": "white_wool"
+        }
+    },
+    "pattern": [
+        "  I",
+        "IWI",
+        "III"
+    ],
+    "result": {
+        "item": "leather_horse_armor"
+    }
+}

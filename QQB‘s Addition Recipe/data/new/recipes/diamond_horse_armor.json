@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "I":{
+            "item": "diamond"
+        },
+        "W":{
+            "item": "white_wool"
+        }
+    },
+    "pattern": [
+        "  I",
+        "IWI",
+        "III"
+    ],
+    "result": {
+        "item": "diamond_horse_armor"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "H":{
+            "item": "hay_block"
+        },
+        "S":{
+            "item": "slime_block"
+        }
+    },
+    "pattern": [
+        "HHH",
+        "HSH",
+        "HHH"
+    ],
+    "result": {
+        "item": "sponge"
+    }
+}

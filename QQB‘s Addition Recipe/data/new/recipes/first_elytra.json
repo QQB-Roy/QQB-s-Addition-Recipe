@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "P":{
+            "item": "phantom_membrane"
+        },
+        "N":{
+            "item": "netherite_ingot"
+        },
+        "R":{
+            "item": "rabbit_hide"
+        }
+    },
+    "pattern": [
+        "PNP",
+        "PRP",
+        "P P"
+    ],
+    "result": {
+        "item": "elytra"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "I":{
+            "item": "gold_ingot"
+        },
+        "W":{
+            "item": "white_wool"
+        }
+    },
+    "pattern": [
+        "  I",
+        "IWI",
+        "III"
+    ],
+    "result": {
+        "item": "golden_horse_armor"
+    }
+}

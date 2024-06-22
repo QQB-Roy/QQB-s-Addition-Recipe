@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "P":{
+            "item": "phantom_membrane"
+        },
+        "Q":{
+            "item": "elytra"
+        },
+        "D":{
+            "item": "diamond"
+        }
+    },
+    "pattern": [
+        "PQP",
+        "PDP",
+        "P P"
+    ],
+    "result": {
+        "item": "elytra",
+        "count": 2
+    }
+}

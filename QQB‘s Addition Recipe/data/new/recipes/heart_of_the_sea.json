@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "L":{
+            "item": "lapis_lazuli"
+        },
+        "N":{
+            "item": "nether_star"
+        }
+    },
+    "pattern": [
+        " L ",
+        "LNL",
+        " L "
+    ],
+    "result": {
+        "item": "heart_of_the_sea"
+    }
+}
