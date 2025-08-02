@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:gold_nugget"
+  },
+  "base": {
+    "item": "minecraft:blackstone"
+  },
+  "result": {
+    "item": "minecraft:gilded_blackstone"
+  },
+  "template": {
+    "item": "minecraft:gold_nugget"
+  }
+}
